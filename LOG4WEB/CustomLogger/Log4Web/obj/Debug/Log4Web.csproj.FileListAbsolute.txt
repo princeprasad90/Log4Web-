@@ -1,0 +1,11 @@
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\Log4Web\bin\Debug\Log4WebService.dll
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\Log4Web\bin\Debug\Log4WebService.pdb
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\Log4Web\obj\Debug\Log4WebService.dll
+C:\Users\p.prasad\Documents\Visual Studio 2015\Projects\WebApplication1\Log4Web\obj\Debug\Log4WebService.pdb
+D:\Prince\GitHub\Log4Web\bin\Debug\Log4WebService.dll
+D:\Prince\GitHub\Log4Web\bin\Debug\Log4WebService.pdb
+D:\Prince\GitHub\Log4Web\obj\Debug\Log4WebService.dll
+D:\Prince\GitHub\Log4Web\obj\Debug\Log4WebService.pdb
+D:\Prince\GitHub\Log4Web\bin\Debug\Newtonsoft.Json.dll
+D:\Prince\GitHub\Log4Web\bin\Debug\Newtonsoft.Json.xml
+D:\Prince\GitHub\Log4Web\obj\Debug\Log4Web.csprojResolveAssemblyReference.cache

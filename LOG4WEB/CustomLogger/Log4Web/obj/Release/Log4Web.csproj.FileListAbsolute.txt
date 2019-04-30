@@ -1,0 +1,6 @@
+D:\Prince\GitHub\Log4Web\bin\Release\Log4WebService.dll
+D:\Prince\GitHub\Log4Web\bin\Release\Log4WebService.pdb
+D:\Prince\GitHub\Log4Web\bin\Release\Newtonsoft.Json.dll
+D:\Prince\GitHub\Log4Web\bin\Release\Newtonsoft.Json.xml
+D:\Prince\GitHub\Log4Web\obj\Release\Log4WebService.dll
+D:\Prince\GitHub\Log4Web\obj\Release\Log4WebService.pdb
